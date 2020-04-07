@@ -1,5 +1,5 @@
 """
-Script used to create local backup files in the default directory on F5 LTM devices
+Script used to create local backup files in the default directory on F5 Big-IP LTM devices
 Dec 2019 - Wedlow
 
 """
